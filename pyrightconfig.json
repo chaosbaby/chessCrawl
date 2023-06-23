@@ -1,0 +1,11 @@
+{
+  "exclude": ["**/node_modules", "**/__pycache__"],
+  "ignore": ["**/node_modules", "**/__pycache__"],
+  "include": ["flextensor", "tvm"],
+  "pythonPlatform": "Linux",
+  "pythonVersion": "3.6",
+  "reportMissingImports": true,
+  "reportMissingTypeStubs": false,
+  "stubPath": "typings",
+  "typeCheckingMode": "off"
+  }
